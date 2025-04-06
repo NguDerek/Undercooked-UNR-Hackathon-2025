@@ -2702,6 +2702,9 @@ MonoBehaviour:
   - name: Submit
     audioClips:
     - {fileID: 8300000, guid: 490e1ade9b47745ca927c358fb44a8d0, type: 3}
+  - name: Table
+    audioClips:
+    - {fileID: 8300000, guid: 455f4d4fff7f34c6689ee08ec5f4a822, type: 3}
 --- !u!82 &1707417029
 AudioSource:
   m_ObjectHideFlags: 0

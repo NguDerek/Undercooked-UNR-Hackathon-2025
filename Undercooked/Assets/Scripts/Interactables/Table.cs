@@ -57,12 +57,14 @@ public class Table : MonoBehaviour, IInteractable
                     GetComponent<SpriteRenderer>().sprite = spriteChoices[9];
                     break;
             }
+            SoundEffectManager.Play("Table");
         }
         else
         {
             FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory(itemOnTable);
             itemOnTable = "None";
             GetComponent<SpriteRenderer>().sprite = spriteChoices[0];
+            SoundEffectManager.Play("Table");
         }
         
     }
