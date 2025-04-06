@@ -280,7 +280,7 @@ MonoBehaviour:
   heldItem: {fileID: 1396328780}
   heldItemVisual: {fileID: 1342742894}
   spriteChoices:
-  - {fileID: 21300000, guid: b10946b6c9cc14217bb5b1dc571fc19f, type: 3}
+  - {fileID: 21300000, guid: ec9af08aa0cf343d19e5543d855d738a, type: 3}
   - {fileID: 21300000, guid: e7987fd9aa2cb475bacf15aa7cec2486, type: 3}
   - {fileID: 21300000, guid: db50339aa0f344893bf32a701c02a5b5, type: 3}
   - {fileID: 21300000, guid: 02042285555594406a65add69b1f7ecc, type: 3}
