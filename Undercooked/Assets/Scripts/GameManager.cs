@@ -4,6 +4,9 @@ using TMPro; //for TextMeshProUGUI
 using System.Collections.Generic;
 using System.Collections;
 using UnityEngine.UI;
+using System;
+using System.Threading;
+
 public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI heldItem;
@@ -96,4 +99,14 @@ public class GameManager : MonoBehaviour
                 break;
         }
     }
+
+    public void checkForWin(int w)
+    {
+        if(w == 5)
+        {
+            Thread.Sleep(2000);
+        }
+    }
+
+    
 }
