@@ -15,7 +15,7 @@ public class Chest1 : MonoBehaviour, IInteractable
     }
 
     public void Interact(){
-        throw new System.BotImplementedException();
+        throw new System.NotImplementedException();
     }
 
     private void OpenChest(){

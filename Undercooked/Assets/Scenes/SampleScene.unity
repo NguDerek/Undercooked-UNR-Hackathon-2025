@@ -163,6 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69d24e25076726a49ba91a192fd4bdbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  heldItem: {fileID: 1396328780}
 --- !u!1 &482028921
 GameObject:
   m_ObjectHideFlags: 0
@@ -1404,7 +1405,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 1
+  m_Radius: 0.5
 --- !u!1 &1396328778
 GameObject:
   m_ObjectHideFlags: 0
