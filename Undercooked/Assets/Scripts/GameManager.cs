@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
 
     public bool cookPatty()
     {
-        if(heldItem.text == "Raw Patty")
+        if(heldItem.text == "Held Item: Raw Patty")
         {
             return true;
         }
