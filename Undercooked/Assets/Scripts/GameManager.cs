@@ -105,7 +105,8 @@ public class GameManager : MonoBehaviour
     {
         if(w == 5)
         {
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
+            SceneManager.LoadScene("EndScene");
         }
     }
 
