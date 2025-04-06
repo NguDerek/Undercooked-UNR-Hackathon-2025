@@ -17,6 +17,7 @@ public class CuttingBoard : MonoBehaviour, IInteractable
     {
         if(CanInteract())
         {
+            SoundEffectManager.Play("Chopping");
             string ingredient = FindFirstObjectByType<GameManager>().GetComponent<GameManager>().getInventory();
             if(ingredient == "Lettuce")
                 FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("Chopped Lettuce");

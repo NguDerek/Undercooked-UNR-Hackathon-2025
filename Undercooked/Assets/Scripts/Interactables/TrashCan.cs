@@ -19,6 +19,7 @@ public class TrashCan : MonoBehaviour, IInteractable
         {
             return;
         }
+        SoundEffectManager.Play("Trash");
         FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("None");
     }
 

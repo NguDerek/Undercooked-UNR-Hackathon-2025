@@ -16,6 +16,7 @@ public class FryingPan : MonoBehaviour, IInteractable
     {
         if(CanInteract())
         {
+            SoundEffectManager.Play("Frying");
             FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("Cooked Patty");
         }
     }
