@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Lettuce : MonoBehaviour, IInteractable
+public class TrashCan : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -10,7 +10,7 @@ public class Lettuce : MonoBehaviour, IInteractable
 
     public bool CanInteract()
     {
-        return !(FindFirstObjectByType<GameManager>().GetComponent<GameManager>().handsFull());
+        return FindFirstObjectByType<GameManager>().GetComponent<GameManager>().handsFull();
     }
 
     public void Interact()
@@ -19,7 +19,7 @@ public class Lettuce : MonoBehaviour, IInteractable
         {
             return;
         }
-        FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("Lettuce");
+        FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("None");
     }
 
 }
