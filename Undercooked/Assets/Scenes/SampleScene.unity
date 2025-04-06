@@ -167,8 +167,8 @@ MonoBehaviour:
   heldItemVisual: {fileID: 1342742894}
   spriteChoices:
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8213334933265063372, guid: 9b88fd4f3b8214155b6316abb128331d, type: 3}
+  - {fileID: -845363981, guid: 9b88fd4f3b8214155b6316abb128331d, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
