@@ -3,12 +3,20 @@
     "maps": [
         {
             "name": "Player",
+<<<<<<< Updated upstream
             "id": "19fbc506-b8cd-4612-9239-b029751085f8",
+=======
+            "id": "62434f59-db26-4acc-bdcf-fd39ee51f76a",
+>>>>>>> Stashed changes
             "actions": [
                 {
                     "name": "Move",
                     "type": "Value",
+<<<<<<< Updated upstream
                     "id": "281dd53f-12c8-449e-a175-e07044080572",
+=======
+                    "id": "59195492-14a0-4b2a-b641-6745a9c8723c",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -17,7 +25,11 @@
                 {
                     "name": "Look",
                     "type": "Value",
+<<<<<<< Updated upstream
                     "id": "7cc83347-002d-4657-b117-9174a228dc5c",
+=======
+                    "id": "488de31a-bdb8-4f34-8109-414a4431084e",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -26,7 +38,11 @@
                 {
                     "name": "Fire",
                     "type": "Button",
+<<<<<<< Updated upstream
                     "id": "3460143d-842d-478a-a3c3-45c3cd583564",
+=======
+                    "id": "59a739dd-9c34-423e-afd2-74d141d11de1",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -258,12 +274,20 @@
         },
         {
             "name": "UI",
+<<<<<<< Updated upstream
             "id": "ff47dd33-da11-4ccf-bc37-3b0d9dea1bc0",
+=======
+            "id": "cd01d5df-9aed-444c-8b9f-bfd50468a32a",
+>>>>>>> Stashed changes
             "actions": [
                 {
                     "name": "Navigate",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "d52e79e6-c024-41b3-aa03-49ae2032a9ca",
+=======
+                    "id": "5907ccaa-062e-4783-96d3-316f5ef92a44",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -272,7 +296,11 @@
                 {
                     "name": "Submit",
                     "type": "Button",
+<<<<<<< Updated upstream
                     "id": "8f59a9a4-c98e-48f3-af2d-093b2db698c6",
+=======
+                    "id": "e86cd2bb-a808-4ff5-8c27-a26fe7033568",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -281,7 +309,11 @@
                 {
                     "name": "Cancel",
                     "type": "Button",
+<<<<<<< Updated upstream
                     "id": "3aede988-6b94-4ca8-9bb4-cca2f9ad8b2c",
+=======
+                    "id": "2185e48c-908f-49ff-8ad9-934de332824a",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -290,7 +322,11 @@
                 {
                     "name": "Point",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "90ac5a08-2e0a-4009-9f41-d389d1af0d16",
+=======
+                    "id": "df9195c6-55b2-495a-bc3a-aff61e5c27b0",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -299,7 +335,11 @@
                 {
                     "name": "Click",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "5cec4c3d-612f-4441-aa53-543bcfc0732f",
+=======
+                    "id": "98b1bb8e-de7a-4b65-bea3-4d5c8377d351",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -308,7 +348,11 @@
                 {
                     "name": "ScrollWheel",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "a16fdc86-27c1-4972-b1ad-5fa5cf7d832c",
+=======
+                    "id": "cc2907a1-0ae4-4cf6-8a1f-c23e45579fb9",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -317,7 +361,11 @@
                 {
                     "name": "MiddleClick",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "4c1fdde2-e75b-4525-8e33-dc960b4622aa",
+=======
+                    "id": "b1c796fe-7a49-4bdb-b359-8236092b84c5",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -326,7 +374,11 @@
                 {
                     "name": "RightClick",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "1ef55f83-371b-4bff-ab41-1e1e974d3e18",
+=======
+                    "id": "a2215170-217a-490f-ac62-a3348fa6d599",
+>>>>>>> Stashed changes
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -335,7 +387,11 @@
                 {
                     "name": "TrackedDevicePosition",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "67f53af7-2874-41ae-8d79-8d3e0289d844",
+=======
+                    "id": "d994d450-6e84-47e6-8c39-c7c67b3cf17a",
+>>>>>>> Stashed changes
                     "expectedControlType": "Vector3",
                     "processors": "",
                     "interactions": "",
@@ -344,7 +400,11 @@
                 {
                     "name": "TrackedDeviceOrientation",
                     "type": "PassThrough",
+<<<<<<< Updated upstream
                     "id": "056497f5-42e5-4943-8239-cb03961d106c",
+=======
+                    "id": "88d950c5-301e-4ca0-8afd-a8a047ec5fb3",
+>>>>>>> Stashed changes
                     "expectedControlType": "Quaternion",
                     "processors": "",
                     "interactions": "",
