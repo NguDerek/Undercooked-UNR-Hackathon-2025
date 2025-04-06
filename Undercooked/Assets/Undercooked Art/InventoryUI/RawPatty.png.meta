@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47e09f280776a4b1cb42dd1e5cd6cd97
+guid: 276328a92da204c3d89bb9bf1e775d45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6077805842922461142
-    second: SubmitBoardPC_0
+      213: -4095121533239334879
+    second: RawPatty_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SubmitBoardPC_0
+      name: RawPatty_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 2
         width: 16
-        height: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d7df296634b85450800000000000000
-      internalID: 6077805842922461142
+      spriteID: 128673399a43b27c0800000000000000
+      internalID: -4095121533239334879
       vertices: []
       indices: 
       edges: []

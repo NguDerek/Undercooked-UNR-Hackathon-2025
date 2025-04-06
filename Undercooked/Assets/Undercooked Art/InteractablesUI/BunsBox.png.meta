@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1e015ceb8c0874e049da39476e0992f0
+guid: ea3191358bd5e4bea9432a4b33e5df3f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1989671448130251307
-    second: SubmitBoardBun_0
+      213: 7100032488391931357
+    second: BunsBox_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SubmitBoardBun_0
+      name: BunsBox_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d595721c544364e0800000000000000
-      internalID: -1989671448130251307
+      spriteID: dd5755c3ee1688260800000000000000
+      internalID: 7100032488391931357
       vertices: []
       indices: 
       edges: []
