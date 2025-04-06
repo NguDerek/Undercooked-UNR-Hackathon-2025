@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI heldItem;
     public Image heldItemVisual;
     public List<Sprite> spriteChoices;
+    public TextMeshProUGUI orderText;
     //private int currentSprite = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -108,5 +109,13 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    
+    public void updateOrder(int ordNum)
+    {
+        if(ordNum == 2)
+            orderText.text = "Order 2: Cheeseburger" + "\n" + "Ingredient Order: Bun, Cooked Patty, Chopped Cheese";
+        else if(ordNum == 3)
+            orderText.text = "Order 3: Veggie Burger" + "\n" + "Ingredient Order: Bun, Cooked Patty, Chopped Lettuce, Chopped Tomato";
+        else
+            orderText.text = "Order 4: Mega Burger" + "\n" + "Ingredient Order: Bun, Cooked Patty, Chopped Cheese, Chopped Lettuce, Chopped Tomato";
+    }
 }
