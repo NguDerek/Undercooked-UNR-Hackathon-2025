@@ -1,11 +1,11 @@
-using System.Collection;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class InteractionDetector : MonoBehaviour
 {
-    private IInteractableInRange = null;
+    private IInteractable interactableInRange = null;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
