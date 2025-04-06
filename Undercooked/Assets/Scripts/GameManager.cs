@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
         return true;
     }
 
-    public bool chopIngredient(string ing)
+    public bool chopIngredient()
     {
         if(heldItem.text == "Held Item: Lettuce" || heldItem.text == "Held Item: Tomato" || heldItem.text == "Held Item: Cheese")
         {
@@ -45,5 +45,10 @@ public class GameManager : MonoBehaviour
     public void updateInventory(string ing)
     {
         heldItem.text = "Held Item: " + ing;
+    }
+
+    public string getInventory()
+    {
+        return heldItem.text.Substring(11);
     }
 }
