@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
-public class Table : MonoBehaviour
+public class Table : MonoBehaviour, IInteractable
 {
     public string itemOnTable;
     public List<Sprite> spriteChoices;
