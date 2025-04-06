@@ -3,7 +3,7 @@ using UnityEngine;
 public class Chest1 : MonoBehaviour, IInteractable
 {
     public bool isOpened {get; private set;}
-    
+    public TextMeshProUGUI inventory;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,6 +19,6 @@ public class Chest1 : MonoBehaviour, IInteractable
     }
 
     private void OpenChest(){
-
+        
     }
 }
