@@ -83,6 +83,7 @@ public class SubmitBoard : MonoBehaviour, IInteractable
             GetComponent<SpriteRenderer>().sprite = spriteChoices[0];
             stepNum = 0;
             orderNum++;
+            SoundEffectManager.Play("Submit");
             FindFirstObjectByType<GameManager>().GetComponent<GameManager>().checkForWin(orderNum);
         }
         FindFirstObjectByType<GameManager>().GetComponent<GameManager>().updateInventory("None");
