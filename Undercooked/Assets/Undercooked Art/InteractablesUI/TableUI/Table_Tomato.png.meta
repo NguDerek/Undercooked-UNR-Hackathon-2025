@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b10946b6c9cc14217bb5b1dc571fc19f
+guid: 833a6095d81874fd392fd1bb9a4bb9a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1117625553333823213
-    second: WoodTile 1_0
+      213: 6404180419886740178
+    second: Table_Tomato_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WoodTile 1_0
+      name: Table_Tomato_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de6ac52f48a928f00800000000000000
-      internalID: 1117625553333823213
+      spriteID: 2d27cdc392830e850800000000000000
+      internalID: 6404180419886740178
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WoodTile 1_0: 1117625553333823213
+      Table_Tomato_0: 6404180419886740178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
