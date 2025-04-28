@@ -13,4 +13,4 @@ The controls are wasd or arrow keys to move the chef, and you use the e key to i
 
 Once you have completed all burgers in the game, you win the game!
 
-<img width="981" alt="Screenshot 2025-04-28 at 2 29 47 AM" src="https://github.com/user-attachments/assets/7e6e2613-8855-44a6-8e05-5ca12c4baddf" />
+<img width="951" alt="Screenshot 2025-04-28 at 2 29 47 AM" src="https://github.com/user-attachments/assets/7e6e2613-8855-44a6-8e05-5ca12c4baddf" />
