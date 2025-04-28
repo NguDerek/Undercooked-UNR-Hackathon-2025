@@ -1,7 +1,8 @@
 # Undercooked-UNR-Hackathon-2025
 Authors: Gisselle Cruz-Robinson, Derek Ngu<br/><br/>
+The Ninja Adventure Asset Pack by pixel-boy was used for our project (https://pixel-boy.itch.io/ninja-adventure-asset-pack).
 ## Description
-A 2D cooking game inspired by Overcooked. Players can pick up ingredients, chop up vegetables, cook raw meat, and assemble ingredients together to create whole meals. The Ninja Adventure Asset Pack by pixel-boy was used for our project (https://pixel-boy.itch.io/ninja-adventure-asset-pack). This project was created in Unity.
+A 2D cooking game inspired by Overcooked. Players can pick up ingredients, chop up vegetables, cook raw meat, and assemble ingredients together to create whole meals. This project was created in Unity in less than 24 hours.
 
 <img width="951" alt="undercooked objective" src="https://github.com/user-attachments/assets/fd5b30d5-b07a-41bb-937c-cf879c8adf3f" />
 
